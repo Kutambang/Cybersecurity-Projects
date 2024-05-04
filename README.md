@@ -1,2 +1,4 @@
 # Cybersecurity-Projects
 Solving a phishing attack
+<p>An email was sent to one of the employees of a school where I worked. The email contained a link that took the recipient to a fake website that looked very similar to the legitimate site. The recipient entered their login credentials on the fake website and the attacker captured this information using it to access the victim's account. </p>
+<p>I Immediately assisted the person to change the passwords for any accounts that may have been compromised. Ensured that the new password was strong and unique. The person in question enabled a Two-Factor Authentication (2FA). Antivirus was installed and malware scanned. We contacted the person's account provider's to secure all her accounts and also monitored  her financial accounts for unauthorised.</p>
